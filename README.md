@@ -1,5 +1,6 @@
+![image](https://github.com/Simt23/Task_1/assets/112646002/d40748cb-a1c0-43c9-a281-3952ba644453)
 
-# Getting Started with Create React App
+# Getting Started with FooD App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
