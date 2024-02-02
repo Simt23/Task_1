@@ -50,8 +50,15 @@ Build a site from scratch and also follow all principles that lead the Figma des
 ### Git
 ### states and props as well.
 
+## Folder Structure.
+![Screenshot 2024-02-02 113058](https://github.com/Simt23/Task_1/assets/112646002/813fb238-9bb6-498d-a020-269bd252a0de)
+
+
 ### Deployment
  we use vercel for the deployment and continuous integration
+
+
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
